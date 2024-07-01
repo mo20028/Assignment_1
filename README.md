@@ -41,3 +41,12 @@ if the dest is dir will copy source file with same name in this dir.
 ![alt text](image-2.png)
 
 ### mv Command
+>move a file to another file and remove the original one
+
+**how to used**
+```
+./move (source) (dest)
+```
+
+**example**
+![mv command](image-3.png)
