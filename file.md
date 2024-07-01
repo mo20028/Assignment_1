@@ -38,6 +38,6 @@ if the dest is dir will copy source file with same name in this dir.
 ```
 
 **example**
-![alt text](image-2.png)
+
 
 ### mv Command
