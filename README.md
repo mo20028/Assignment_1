@@ -14,10 +14,19 @@
 ./mypwd
 ```
 **example**
-
 ![pwd_ex](image.png)
 
 ### echo Command
+> print a user input string on stdout
+
+
+**how to used**
+```
+./myecho "user string"
+```
+**example**
+![echo_ex](image-1.png)
+
 
 ### cd Command 
 
