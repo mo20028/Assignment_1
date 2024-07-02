@@ -1,10 +1,10 @@
 # ST Assignment
 
 ## Commands
-- [pwd](#pwd)
-- [echo](#echo)
-- [cd](#cd)
-- [mv](#mv)
+- [pwd](#pwd Command)
+- [echo](#echo Command)
+- [cd](#cd Command)
+- [mv](#mv Command)
 
 ### pwd Command
 > print current directory using filesystem library suppor for cpp17 
@@ -28,7 +28,7 @@
 ![echo_ex](image-1.png)
 
 
-### cd 
+### cd Command
 >copy a file to another file and keep the original one.
 if the dest is dir will copy source file with same name in this dir.
 
