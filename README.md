@@ -28,7 +28,7 @@
 ![echo_ex](image-1.png)
 
 
-### cd Command 
+### cd 
 >copy a file to another file and keep the original one.
 if the dest is dir will copy source file with same name in this dir.
 
